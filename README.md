@@ -1,4 +1,7 @@
-# 🌘 shaunsingh/moonlight.nvim
+# Forked from : 🌘 shaunsingh/moonlight.nvim
+
+### Forking reason
+Changed to color of highlight and wanted to keep a repository for it. Hightlight now match selection color
 
 ## Modified version of Marko Cerovac's [Material.nvim](https://github.com/marko-cerovac/material.nvim), based off of the [Moonlight Theme](https://github.com/atomiks/moonlight-vscode-theme) for VSCode 
 
